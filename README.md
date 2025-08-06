@@ -19,7 +19,7 @@ The project includes **5 key dashboards**:
 3. Product Analysis Dashboard 
    - Evaluate product-wise performance and contribution.
    - Metrics: top products, category-wise sales, product margins.
-     ![Product Dashboard]()
+     ![Product Dashboard](https://github.com/Junaid30121997/Data_Analyst_Sales_Project/blob/main/Screenshot%202025-07-24%20184858.png)
 
 4. Regional Performance Dashboard  
    - Analyze geographical trends and regional growth.
