@@ -24,12 +24,12 @@ The project includes **5 key dashboards**:
 4. Regional Performance Dashboard  
    - Analyze geographical trends and regional growth.
    - Metrics: region-wise revenue, market share, regional comparisons.
-     ![Regional Dashboard]([images/regional.png](https://github.com/Junaid30121997/Data_Analyst_Sales_Project/blob/main/Screenshot%202025-07-24%20184817.png))
+     ![Regional Dashboard](https://github.com/Junaid30121997/Data_Analyst_Sales_Project/blob/main/Screenshot%202025-07-24%20184817.png)
 
 5. Time-Based Analysis Dashboard
    - Time series analysis to uncover seasonal patterns and trends.
    - Metrics: YOY growth, seasonal spikes, moving averages.
-     ![Time Dashboard]([images/time.png](https://github.com/Junaid30121997/Data_Analyst_Sales_Project/blob/main/Screenshot%202025-07-24%20184735.png)) 
+     ![Time Dashboard](https://github.com/Junaid30121997/Data_Analyst_Sales_Project/blob/main/Screenshot%202025-07-24%20184735.png)
 
 ##  Technologies Used
 
