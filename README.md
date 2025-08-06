@@ -14,7 +14,7 @@ The project includes **5 key dashboards**:
 2.  Customer Analysis Dashboard  
    - Understand customer behavior, segmentation, and retention.
    - Metrics: customer lifetime value, repeat purchase rate, demographics.
-     ![Customer Dashboard](images/customer.png)
+     ![Customer Dashboard](https://github.com/Junaid30121997/Data_Analyst_Sales_Project/blob/main/Screenshot%202025-07-24%20185006.png)
 
 3. Product Analysis Dashboard 
    - Evaluate product-wise performance and contribution.
