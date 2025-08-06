@@ -9,7 +9,7 @@ The project includes **5 key dashboards**:
 1. Sales Performance Dashboard
    - Tracks overall sales, revenue growth, and performance trends.
    - Metrics: total sales, monthly revenue, top-performing products.
-    ![Sales Dashboard](images/sales.png)
+    ![Sales Dashboard](https://github.com/Junaid30121997/Data_Analyst_Sales_Project/blob/main/Screenshot%202025-07-24%20185129.png)
 
 2.  Customer Analysis Dashboard  
    - Understand customer behavior, segmentation, and retention.
